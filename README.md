@@ -9,7 +9,7 @@
 The **Global AI Adoption in Education (2015–2026)** project is an interactive Business Intelligence and Data Analytics solution that explores the adoption, usage, and growth of Artificial Intelligence in education across multiple countries and regions.
 
 The project transforms raw educational data into meaningful insights using **Tableau dashboards**, **interactive visualizations**, and **data storytelling**. It helps educators, researchers, policymakers, and organizations understand global AI adoption trends and make informed decisions.
-
+Website Link- https://global-ai-usage.vercel.app/index.html
 ---
 
 ## 🎯 Problem Statement
