@@ -3,6 +3,7 @@
 A premium, responsive, multi-page Flask web application analyzing the global adoption, usage, and growth of artificial intelligence in education. This repository integrates high-level summary metrics, key research findings, and interactive Tableau Public dashboards.
 
 ---
+Website- https://global-ai-usage.vercel.app/
 
 ## 🌟 Key Features
 
